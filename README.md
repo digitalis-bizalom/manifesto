@@ -1,2 +1,2 @@
 # manifesto
-A megbízható digitális állam: nyilvánosan vállalható szakmai minimum.
+A digitális bizalom 12 pontja — Manifesztó a megbízható digitális államról.
