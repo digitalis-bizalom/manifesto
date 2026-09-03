@@ -56,9 +56,7 @@ Az nem elég bizonyíték az egészséges működésre, hogy eddig nem történt
 
 Ezért a teljes működést vizsgáljuk: az interakciókat, a visszacsatolást, a függőségeket, a degradációt és a helyreállítást is.
 
-[ELDÖNTENDŐ — támadói képességkorlát]
-[Közérthető változat:] A rendszer alapvető biztonsága ne azon múljon, hogy a támadó lassabb vagy kevésbé intelligens.
-[Precízebb változat:] Ha egy kritikus biztonsági tulajdonság fennállása a támadó valamely feltételezett képességkorlátjától függ, ezt a korlátot külön is kellően alá kell támasztani; ennek hiányában a tulajdonság nem tekinthető igazoltnak.
+Ne tekintsünk biztonságosnak egy rendszert csak azért, mert a támadót lassabbnak vagy kevésbé intelligensnek feltételezzük: a kritikus biztonsági feltételezéseket külön is alá kell támasztani.
 
 ---
 
