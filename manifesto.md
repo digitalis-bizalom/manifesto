@@ -26,7 +26,11 @@ Ezért előbb a funkciót kell meghatározni, és csak utána azt, hogyan és mi
 
 Az állami funkciókat pedig nem a meglévő intézményi felosztásból kiindulva, hanem a tágabb alkotmányos kiindulópontból érdemes meghatározni.
 
-Az ügyintézés és az állami szolgáltatások megszervezésénél az ember vagy szervezet élethelyzetéből kell kiindulni: ne az állam szervezeti térképét kelljen ismernie ahhoz, hogy jogát gyakorolja, kötelezettségét teljesítse vagy ügyét elintézze. Ez nem jelenti azt, hogy a hatáskörök eltűnhetnének. A háttérben továbbra is egyértelműnek és rekonstruálhatónak kell maradnia, mely szerv milyen jogalapon jár el.
+Az állami szolgáltatások kialakításánál az ember vagy szervezet élethelyzete legyen az elsődleges kiindulópont, ne a meglévő intézményi struktúra: ne az állam szervezeti térképét kelljen ismernie ahhoz, hogy jogát gyakorolja, kötelezettségét teljesítse vagy ügyét elintézze.
+
+Ez nem jelenti az állam szervezeti, hatásköri és felelősségi rendjének feloldását. A szervezetet az ellátandó funkciókhoz kell alakítani, miközben egyértelműnek és rekonstruálhatónak kell maradnia, hogy mely állami funkcióért ki felel, és közhatalmi cselekménynél ki, milyen jogalapon és milyen hatáskörben jár el.
+
+A biztonságot sem a szervezet önmagában vett védelméből vezetjük le. Előbb azt kell meghatározni, kit, milyen jogot, adatot és milyen szükséges állami vagy társadalmi funkciót kell megvédeni; a biztonsági követelményeket ehhez kell igazítani.
 
 ---
 
