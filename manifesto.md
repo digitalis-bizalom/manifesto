@@ -26,8 +26,7 @@ Ezért előbb a funkciót kell meghatározni, és csak utána azt, hogyan és mi
 
 Az állami funkciókat pedig nem a meglévő intézményi felosztásból kiindulva, hanem a tágabb alkotmányos kiindulópontból érdemes meghatározni.
 
-[OPCIONÁLIS — élethelyzet / szolgáltatási nézőpont:]
-Az állammal kapcsolatba kerülő embernek vagy szervezetnek ne az állam szervezeti térképét kelljen ismernie ahhoz, hogy jogát gyakorolja, kötelezettségét teljesítse vagy ügyét elintézze. Ez nem jelenti azt, hogy a hatáskörök eltűnhetnének. A háttérben továbbra is egyértelműnek és rekonstruálhatónak kell maradnia, mely szerv milyen jogalapon jár el.
+Az ügyintézés és az állami szolgáltatások megszervezésénél az ember vagy szervezet élethelyzetéből kell kiindulni: ne az állam szervezeti térképét kelljen ismernie ahhoz, hogy jogát gyakorolja, kötelezettségét teljesítse vagy ügyét elintézze. Ez nem jelenti azt, hogy a hatáskörök eltűnhetnének. A háttérben továbbra is egyértelműnek és rekonstruálhatónak kell maradnia, mely szerv milyen jogalapon jár el.
 
 ---
 
@@ -81,7 +80,7 @@ A kritikus rendszereknek nemcsak normál állapotban kell működniük. Tudnunk 
 
 A válság túlélése önmagában nem elég. A rendkívüli működésből vissza is kell tudni térni a normál, jogszerű állapotba.
 
-[OPCIONÁLIS:] A tartós fenyegetettség önmagában nem indokolhat tartós rendkívüli állami működést.
+A tartós fenyegetettség nem teheti automatikussá vagy korlátlanná a rendkívüli állami működést. Annak szükségességét, arányosságát és jogalapját rendszeresen felül kell vizsgálni.
 
 ---
 
