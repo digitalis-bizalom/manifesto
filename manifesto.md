@@ -208,7 +208,7 @@ A közreműködők és a felhasznált források ettől külön kezelendők. Egy 
 
 Az aláírók szintén külön kategóriát alkotnak. Egy aláíró vállalhatja a Manifesztó egy meghatározott változatát anélkül, hogy annak szerzője lenne; a szerző pedig nem válik automatikusan aláíróvá.
 
-A nyilvános megjelenésben a szerzői byline, a közreműködői és forrásjegyzék, valamint az aláírói lista külön felületen is kezelhető. A GitHub változástörténete fontos provenance, de nem helyettesíti a szerzőségi és aláírói státusz explicit rögzítését.
+A nyilvános megjelenésben a szerzők feltüntetése, a közreműködői és forrásjegyzék, valamint az aláírói lista külön felületen is kezelhető. A GitHub változástörténete fontos része a dokumentum eredetének és keletkezéstörténetének, de nem helyettesíti a szerzői és aláírói státusz egyértelmű rögzítését.
 
 ---
 
