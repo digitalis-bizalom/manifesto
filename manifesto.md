@@ -2,6 +2,8 @@
 
 ## Manifesztó a megbízható digitális államról
 
+**Változat: v1.0-beta.5 — vitaanyag, nem végleges**
+
 ---
 
 ## Hova tartunk?
@@ -13,6 +15,20 @@ Olyan magyar államot szeretnénk, amelynek digitális működése nemcsak gyors
 Nem olyan rendszert keresünk, amely csak jó vezetőkkel, jó üzemeltetőkkel és szerencsés körülmények között működik jól. Olyan szabályokat, működési módot és infrastruktúrát keresünk, amelyek akkor is a helyes működés felé kényszerítik az államot, amikor szereplői hibáznak, túlterheltek, részérdekeket követnek vagy rosszul döntenek.
 
 A technológia eszköz. A cél nem egyszerűen egy működő állam, hanem egy működő alkotmányos rend: olyan közös rend, amely megteremti és fenntartja a szabadság, a jogszerű együttműködés, a biztonság és a közös cselekvőképesség feltételeit. Az állam önfenntartása és működőképessége ennek szükséges része, de nem az egész cél.
+
+A Manifesztó alkotmányos mércét fogalmaz meg, nem a fennálló jogi és intézményi keretet tekinti normatív kiindulópontnak. Azt kérdezi, milyen garanciák szükségesek egy működő alkotmányos rendhez, és csak ezután azt, hogy ezek milyen jogi és intézményi formában valósíthatók meg.
+
+Az alkotmányos működőképesség nem egyetlen szakma ügye. A megbízható digitális állam technikai, jogi, intézményi és társadalmi kérdés egyszerre. Ezért a tizenkét pont sem egyetlen szakma programja: különböző szakmai és közéleti szerepekből is lehet hozzájuk csatlakozni. A Manifesztó kanonikus szövege, változatai és a csatlakozás aktuális módja a https://github.com/digitalis-bizalom/manifesto/ címen érhető el.
+
+---
+
+## Miért most?
+
+A digitális rendszerek képességei, összetettsége és egymásrautaltsága gyorsan változik. Új képességek rövid idő alatt változtathatják meg, mit lehet automatizálni, összekapcsolni, ellenőrizni vagy megtámadni, miközben a jog, a közintézmények, a beszerzés, az infrastruktúra és a szervezeti tudás szükségképpen lassabban alkalmazkodnak.
+
+Ez az ütemkülönbség nemcsak informatikai kockázat. Ha alapvető állami funkciók digitális rendszereken keresztül működnek, megbízhatóságuk az alkotmányos működőképesség egyik feltételévé válik.
+
+A következő tizenkét pont ezért nem egyetlen technológiára vagy aktuális fenyegetésre ad választ. Olyan mércét keres, amely gyors technológiai változás mellett is használható marad.
 
 ---
 
@@ -66,6 +82,8 @@ Kritikus funkciónál legyen világos, ki miért felel, milyen döntési joggal,
 
 Kritikus döntésnél a szakmai kockázatjelzésnek el kell jutnia a döntés szintjéig; ha a döntés a jelzésben azonosított kockázat vállalását jelenti, annak indoka és felelőse rekonstruálható maradjon.
 
+A működés során legyen felismerhető, rögzíthető és megfelelő szintre eszkalálható a jogi, illetve előzetesen meghatározott szakmai vagy etikai követelményektől való lényeges eltérés. Az ezt támogató technológia nem helyettesíti a döntésre jogosult ember felelősségét.
+
 A felelősség nem azonos a bűnbakkereséssel, és a vizsgálata nem kezdődhet a krízis pillanatánál. Azt is vizsgálni kell, kinek milyen előzetes kötelessége volt a megelőzésben, a felkészülésben, a megfigyelésben és a beavatkozásban, és ezek közül mit teljesített vagy mulasztott el.
 
 Ettől külön kérdés, hogy milyen rendszerfeltételek tették lehetővé a hibát. A személyes vagy szervezeti felelősség megállapítása nem helyettesíti a rendszerhiba megértését, és a rendszerszintű magyarázat sem szünteti meg a tényleges mulasztásért viselt felelősséget.
@@ -91,6 +109,8 @@ A tartós fenyegetettség nem teheti automatikussá vagy korlátlanná a rendkí
 A szuverenitás nem autarkia, és nem azonos azzal, hogy minden technológia magyar tulajdonban vagy magyar adatközpontban legyen. Egy magyar beszállító nem tesz önmagában szuverénné, ahogy egy külföldi beszállító sem szünteti meg automatikusan a szuverenitást.
 
 A lényegi kérdés az, hogy egy kritikus függőséget ismerünk-e, és a rá épülő működést képesek vagyunk-e fenntartani, más megoldásra átvinni, a függőséget kiváltani vagy szükség esetén megszüntetni.
+
+A kritikus függőségek kezelése már a követelmények meghatározásánál és a specifikációnál elkezdődik, és a beszerzésben, a szerződéskötésben, az üzemeltetésben és a kivezetésben is érvényesülnie kell. A kilépés, migráció, ellenőrizhetőség és szükség esetén a helyettesítés feltételeit nem elég akkor keresni, amikor a függőség már problémává vált.
 
 Ha a teljes kilépés nem lehetséges, legalább ismernünk kell és ki kell próbálnunk azt a működési módot, amelyben a kritikus funkció a függőség részleges vagy teljes kiesése mellett is elfogadható szinten fennmarad.
 
@@ -148,6 +168,8 @@ Nemcsak a bekövetkezett incidensből lehet tanulni.
 
 Jelzés a majdnem bekövetkezett hiba, a rendszeresen ismétlődő workaround, a kézi beavatkozás, a gyakorlaton előkerülő függőség és minden olyan helyzet is, amikor a rendszer csak azért nem hibázott látványosan, mert valaki időben közbelépett.
 
+A rendszernek a kívülről érkező jelzéseket is be kell tudnia fogadni. Legyen világos és hozzáférhető út a sérülékenységek és más érdemi kockázatok jóhiszemű bejelentésére, kivizsgálására, visszajelzésére és javítására; a megfelelő csatornán, jogszerűen és jóhiszeműen jelzőt ne érje retorzió azért, mert problémát jelzett.
+
 A tanulságokat rögzíteni kell, és vissza kell vezetni a követelményekbe, a technológiába és szükség esetén a felelősségi rendbe.
 
 A változtatást is kockázatként kezeljük. Egy ismert hiba megszüntetése új, ritkább, de súlyosabb hibalehetőséget hozhat létre. Az új technológia ezért nem önmagában előny, ahogy a régi technológia sem önmagában érték.
@@ -166,7 +188,7 @@ A kritikus állami rendszerek működtetéséhez folyamatos tudás, gyakorlat, f
 
 A tizenkét pont nem attól lesz több jó szándékú állításnál, hogy egyetértünk vele.
 
-Aki a tizenkét pontot vállalja, azt is vállalja, hogy saját szakmai szerepében, ahol ez releváns és lehetőségei megengedik, mérceként használja őket és érvényesítésükre törekszik.
+Aki aláírja, a tizenkét pontot a megbízható digitális állam megítélésének mércéjeként elfogadja. Ha saját szakmai vagy közéleti szerepében e körbe tartozó javaslatot tesz vagy támogat, azt ugyanezekhez a mércékhez méri; ha valamelyiktől eltér, az eltérést és annak indokát nyíltan jelzi.
 
 A közös anyag akkor fejlődik jól, ha valódi használatból tanul. Ha a pontok alkalmazásából új tapasztalat, ellenpélda, mérce, teszt vagy javítási javaslat születik, azt — ahol ez jogszerűen és ésszerűen megtehető — igyekszünk visszaforgatni a közös munkába.
 
@@ -188,6 +210,8 @@ Nem teszi az open source-t, a cloudot, a local-first működést, a mesterséges
 
 Nem állítja, hogy egyetlen szervezetnek kellene felkészítenie, minősítenie, tanúsítania vagy rangsorolnia a magyar digitális állam szereplőit.
 
+Nem dönti el előre, milyen jogi és intézményi formában kell a szükséges alkotmányos garanciáknak érvényt szerezni.
+
 Nem aktuálpolitikai diagnózist ad. Mércét akar adni ahhoz, hogy konkrét rendszerekről és döntésekről később ellenőrizhető állításokat lehessen tenni.
 
 ---
@@ -196,17 +220,21 @@ Nem aktuálpolitikai diagnózist ad. Mércét akar adni ahhoz, hogy konkrét ren
 
 A Manifesztó szándékosan rövid. Önmagában ezért nem alkalmas annak eldöntésére, hogy egy konkrét állami rendszer megfelel-e neki.
 
-A Manifesztó mondja meg, merre akarunk menni. Az `Alapok` feladata, hogy ne tudjuk utólag bármiről azt állítani, hogy odaértünk.
+A tizenkét pont részletesebb, ellenőrizhető kibontására szolgál az Alapok: követelményeket, bizonyítékokat, mércéket és teszteket kapcsol hozzájuk. Az Alapok a https://github.com/digitalis-bizalom/alapok címen érhető el.
+
+A Manifesztó mondja meg, merre akarunk menni. Az Alapok feladata, hogy ne tudjuk utólag bármiről azt állítani, hogy odaértünk. Az Alapok külön, tovább fejlődő munkadokumentum; a Manifesztó aláírása önmagában nem jelenti mindenkori tartalmának elfogadását.
 
 ---
 
 ## Szerzőség, közreműködés és aláírás
 
-A Manifesztó szerzői azok, akik a közös szövegért szerzőként felelősséget vállalnak.
+A Manifesztó szerzői azok, akik a lefagyasztott v1.0 teljes szövegéért szerzőként felelősséget vállalnak, és annak első aláírói.
 
 A közreműködők és a felhasznált források ettől külön kezelendők. Egy forrás szerzője vagy egy gondolat eredeti megfogalmazója nem válik automatikusan a Manifesztó szerzőjévé.
 
-Az aláírók szintén külön kategóriát alkotnak. Egy aláíró vállalhatja a Manifesztó egy meghatározott változatát anélkül, hogy annak szerzője lenne; a szerző pedig nem válik automatikusan aláíróvá.
+A későbbi aláírók külön kategóriát alkotnak. Egy aláíró vállalhatja a Manifesztó egy meghatározott változatát anélkül, hogy annak szerzője lenne.
+
+A Manifesztóhoz később is lehet csatlakozni. Az aktuális csatlakozási lehetőség és az aláírók nyilvántartása a https://github.com/digitalis-bizalom/manifesto/blob/main/CSATLAKOZAS.md címen érhető el.
 
 A nyilvános megjelenésben a szerzők feltüntetése, a közreműködői és forrásjegyzék, valamint az aláírói lista külön felületen is kezelhető. A GitHub változástörténete fontos része a dokumentum történetének, de nem helyettesíti a szerzői és aláírói státusz egyértelmű rögzítését.
 
@@ -218,4 +246,4 @@ Ez a Manifesztó nem kinyilatkoztatás, hanem közös munkadokumentumból kialak
 
 A változásokat nyilvánosan követjük. Egy aláírás mindig a dokumentum egy meghatározott változatára vonatkozik. A későbbi módosítás nem válik automatikusan korábbi aláíró álláspontjává.
 
-Aki aláírja, nem azt állítja, hogy minden részlet megoldott. Azt vállalja, hogy a fenti elveket mérceként elfogadja, és hajlandó az ezekből levezetett követelményeket bizonyíték, mérce és teszt alapján számon kérni — saját javaslatain is.
+Aki aláírja, nem azt állítja, hogy minden részlet megoldott, és nem vállalja automatikusan az Alapok mindenkori tartalmát. Egy meghatározott Manifesztó-változatot és az abban rögzített vállalást teszi magáévá.
