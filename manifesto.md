@@ -2,7 +2,7 @@
 
 ## Manifesztó a megbízható digitális államról
 
-**Változat: v1.0-beta.5 — vitaanyag, nem végleges**
+**Változat: v1.0-rc6 — aláírásra bocsátott v1.0-jelölt**
 
 ---
 
@@ -12,19 +12,19 @@ A digitális állam nem informatikai projekt. Az állam egyre több alapvető fu
 
 Olyan magyar államot szeretnénk, amelynek digitális működése nemcsak gyors és kényelmes, hanem megbízható: jogszerűen működik, támadás és hiba mellett is képes fenntartani a szükséges funkciókat, saját állításait bizonyítani tudja, függőségeit ismeri, válság után helyreáll, és közben nem válik saját technológiájának vagy beszállítóinak foglyává.
 
-Nem olyan rendszert keresünk, amely csak jó vezetőkkel, jó üzemeltetőkkel és szerencsés körülmények között működik jól. Olyan szabályokat, működési módot és infrastruktúrát keresünk, amelyek akkor is a helyes működés felé kényszerítik az államot, amikor szereplői hibáznak, túlterheltek, részérdekeket követnek vagy rosszul döntenek.
+Nem olyan rendszert keresünk, amely csak jó vezetőkkel, jó üzemeltetőkkel és szerencsés körülmények között működik jól. Olyan szabályokat, működési módot és infrastruktúrát keresünk, amelyek hibák, túlterheltség, részérdekek és rossz döntések mellett is korlátozzák a hibák következményeit, láthatóvá teszik az eltéréseket, és visszaterelik a működést a jogszerű és ellenőrizhető keretek közé.
 
 A technológia eszköz. A cél nem egyszerűen egy működő állam, hanem egy működő alkotmányos rend: olyan közös rend, amely megteremti és fenntartja a szabadság, a jogszerű együttműködés, a biztonság és a közös cselekvőképesség feltételeit. Az állam önfenntartása és működőképessége ennek szükséges része, de nem az egész cél.
 
-A Manifesztó alkotmányos mércét fogalmaz meg, nem a fennálló jogi és intézményi keretet tekinti normatív kiindulópontnak. Azt kérdezi, milyen garanciák szükségesek egy működő alkotmányos rendhez, és csak ezután azt, hogy ezek milyen jogi és intézményi formában valósíthatók meg.
+A Manifesztó a működő alkotmányos rend követelményéből indul ki. A fennálló jogi és intézményi keret megtartása önmagában nem cél, ahogy megváltoztatása sem önmagában érték. Azt kérdezi, milyen garanciák szükségesek egy működő alkotmányos rendhez, és milyen jogi és intézményi rend képes ezeket hitelesen és tartósan biztosítani.
 
-Az alkotmányos működőképesség nem egyetlen szakma ügye. A megbízható digitális állam technikai, jogi, intézményi és társadalmi kérdés egyszerre. Ezért a tizenkét pont sem egyetlen szakma programja: különböző szakmai és közéleti szerepekből is lehet hozzájuk csatlakozni. A Manifesztó kanonikus szövege, változatai és a csatlakozás aktuális módja a https://github.com/digitalis-bizalom/manifesto/ címen érhető el.
+Az alkotmányos működőképesség nem egyetlen szakma ügye. A megbízható digitális állam technikai, jogi, intézményi és társadalmi kérdés egyszerre. Ezért a tizenkét pont sem egyetlen szakma programja: szakmai háttértől és intézményi szereptől függetlenül lehet hozzájuk csatlakozni. A Manifesztó legfrissebb közzétett szövege, korábbi változatai és a csatlakozás módja a https://github.com/digitalis-bizalom/manifesto/ címen érhető el.
 
 ---
 
 ## Miért most?
 
-A digitális rendszerek képességei, összetettsége és egymásrautaltsága gyorsan változik. Új képességek rövid idő alatt változtathatják meg, mit lehet automatizálni, összekapcsolni, ellenőrizni vagy megtámadni, miközben a jog, a közintézmények, a beszerzés, az infrastruktúra és a szervezeti tudás szükségképpen lassabban alkalmazkodnak.
+A digitális rendszerek képességei, összetettsége és egymásrautaltsága gyorsan változik. Új képességek rövid idő alatt változtathatják meg, mit lehet automatizálni, összekapcsolni, ellenőrizni vagy megtámadni, miközben a jog, a közintézmények, a beszerzés, az infrastruktúra és a szervezeti tudás jellemzően lassabban alkalmazkodnak.
 
 Ez az ütemkülönbség nemcsak informatikai kockázat. Ha alapvető állami funkciók digitális rendszereken keresztül működnek, megbízhatóságuk az alkotmányos működőképesség egyik feltételévé válik.
 
@@ -56,7 +56,7 @@ Tanúsítvány, szabályzat, audit vagy jogszabályi megfelelés szükséges leh
 
 Amit lehet, mérünk. Amit kritikusnak nevezünk, azt megfelelően próbára tesszük. A helyreállítási tervet nem tekintjük helyreállítási képességnek addig, amíg nem próbáltuk ki.
 
-Az állam ne legyen saját működésének egyetlen igazolója. A fontos állításokhoz olyan bizonyíték kell, amely ellenőrizhető; kritikus állításnál független ellenőrzési útnak is rendelkezésre kell állnia.
+Az állam ne legyen saját működésének egyetlen igazolója. A fontos állításokhoz olyan bizonyíték kell, amely ellenőrizhető; kritikus állításnál független ellenőrzési útnak is rendelkezésre kell állnia. A független ellenőrzéshez a döntő bizonyítékoknak és mérési adatoknak is az ellenőrzött szereplőtől kellően függetlenül hozzáférhetőnek vagy védettnek kell lenniük.
 
 A digitális bizalom nem kommunikációs ígéret: a hiteles, kiszámítható és ellenőrizhető működés következménye.
 
@@ -82,7 +82,7 @@ Kritikus funkciónál legyen világos, ki miért felel, milyen döntési joggal,
 
 Kritikus döntésnél a szakmai kockázatjelzésnek el kell jutnia a döntés szintjéig; ha a döntés a jelzésben azonosított kockázat vállalását jelenti, annak indoka és felelőse rekonstruálható maradjon.
 
-A működés során legyen felismerhető, rögzíthető és megfelelő szintre eszkalálható a jogi, illetve előzetesen meghatározott szakmai vagy etikai követelményektől való lényeges eltérés. Az ezt támogató technológia nem helyettesíti a döntésre jogosult ember felelősségét.
+Ha egy irányadó jogi, illetve előzetesen rögzített szakmai vagy etikai követelménytől való lényeges eltérés érdemi következményekkel járhat, legyen előre meghatározva az eltérés felismerésének, rögzítésének és megfelelő szintre eszkalálásának a módja. Az eltérésre vonatkozó jelzés legyen ellenőrizhető és vitatható; az ezt támogató technológia önmagában nem döntheti el a jogsértést vagy a felelősséget, és nem helyettesíti a döntésre jogosult ember felelősségét.
 
 A felelősség nem azonos a bűnbakkereséssel, és a vizsgálata nem kezdődhet a krízis pillanatánál. Azt is vizsgálni kell, kinek milyen előzetes kötelessége volt a megelőzésben, a felkészülésben, a megfigyelésben és a beavatkozásban, és ezek közül mit teljesített vagy mulasztott el.
 
@@ -101,6 +101,8 @@ A kritikus rendszereknek nemcsak normál állapotban kell működniük. Tudnunk 
 A válság túlélése önmagában nem elég. A rendkívüli működésből vissza is kell tudni térni a normál, jogszerű állapotba.
 
 A tartós fenyegetettség nem teheti automatikussá vagy korlátlanná a rendkívüli állami működést. Annak szükségességét, arányosságát és jogalapját rendszeresen felül kell vizsgálni.
+
+Súlyos biztonsági esemény után az újraindítás külön döntés: a feltárt hiba kijavítása önmagában nem bizonyítja, hogy a biztonságos és jogszerű működés feltételei helyreálltak.
 
 ---
 
@@ -188,15 +190,15 @@ A kritikus állami rendszerek működtetéséhez folyamatos tudás, gyakorlat, f
 
 A tizenkét pont nem attól lesz több jó szándékú állításnál, hogy egyetértünk vele.
 
-Aki aláírja, a tizenkét pontot a megbízható digitális állam megítélésének mércéjeként elfogadja. Ha saját szakmai vagy közéleti szerepében e körbe tartozó javaslatot tesz vagy támogat, azt ugyanezekhez a mércékhez méri; ha valamelyiktől eltér, az eltérést és annak indokát nyíltan jelzi.
+Aki aláírja, a tizenkét pontot a megbízható digitális állam megítélésének mércéjeként elfogadja. Ha a Manifesztó tárgyában javaslatot tesz, támogat vagy nyilvánosan állást foglal, azt ugyanezekhez a mércékhez méri; ha valamelyiktől eltér, az eltérést és annak indokát nyíltan jelzi.
 
 A közös anyag akkor fejlődik jól, ha valódi használatból tanul. Ha a pontok alkalmazásából új tapasztalat, ellenpélda, mérce, teszt vagy javítási javaslat születik, azt — ahol ez jogszerűen és ésszerűen megtehető — igyekszünk visszaforgatni a közös munkába.
 
-A `github.com/digitalis-bizalom` ennek nyílt munkafelülete. A részvétel nem jelenti, hogy minden aláíró minden követelmény kidolgozását vagy az infrastruktúra folyamatos fenntartását vállalja.
+Az aláírás nem jelenti, hogy az aláíró minden követelmény kidolgozását vagy az infrastruktúra folyamatos fenntartását vállalja.
 
 A cél az, hogy a közös anyag a résztvevők valós munkájából tanuljon, és cserébe újra felhasználható mércét adjon a résztvevők valós munkájához.
 
-A lehetséges technológiai, szervezeti és működési megoldásokat külön kezeljük. Attól, hogy egy megoldás bekerül az `implementation-candidates` közé, még nem válik közös ajánlássá vagy referenciaimplementációvá.
+A lehetséges technológiai, szervezeti és működési megoldásokat külön kezeljük. Attól, hogy egy megoldást megvizsgálunk vagy nyilvántartunk, még nem válik közös ajánlássá vagy referenciaimplementációvá.
 
 ---
 
@@ -206,13 +208,13 @@ Nem választ technológiai stacket, beszállítót vagy referenciaimplementáci�
 
 Nem mondja ki, hogy centralizált vagy elosztott architektúra általában jobb.
 
-Nem teszi az open source-t, a cloudot, a local-first működést, a mesterséges intelligenciát, a STAMP/STPA módszertant vagy bármely más konkrét megoldást általános követelménnyé.
+Nem teszi az open source-t, a cloudot, a local-first működést, a mesterséges intelligenciát vagy bármely más konkrét technológiát vagy módszertant általános követelménnyé.
 
 Nem állítja, hogy egyetlen szervezetnek kellene felkészítenie, minősítenie, tanúsítania vagy rangsorolnia a magyar digitális állam szereplőit.
 
 Nem dönti el előre, milyen jogi és intézményi formában kell a szükséges alkotmányos garanciáknak érvényt szerezni.
 
-Nem aktuálpolitikai diagnózist ad. Mércét akar adni ahhoz, hogy konkrét rendszerekről és döntésekről később ellenőrizhető állításokat lehessen tenni.
+Nem aktuálpolitikai diagnózist ad. Alapot akar adni ahhoz, hogy konkrét rendszerekről és döntésekről később ellenőrizhető állításokat lehessen tenni.
 
 ---
 
@@ -232,9 +234,9 @@ A Manifesztó szerzői azok, akik a lefagyasztott v1.0 teljes szövegéért szer
 
 A közreműködők és a felhasznált források ettől külön kezelendők. Egy forrás szerzője vagy egy gondolat eredeti megfogalmazója nem válik automatikusan a Manifesztó szerzőjévé.
 
-A későbbi aláírók külön kategóriát alkotnak. Egy aláíró vállalhatja a Manifesztó egy meghatározott változatát anélkül, hogy annak szerzője lenne.
+A későbbi aláírók külön kategóriát alkotnak. Egy későbbi aláíró vállalhatja a Manifesztó egy meghatározott, már lefagyasztott változatát anélkül, hogy annak szerzője lenne.
 
-A Manifesztóhoz később is lehet csatlakozni. Az aktuális csatlakozási lehetőség és az aláírók nyilvántartása a https://github.com/digitalis-bizalom/manifesto/blob/main/CSATLAKOZAS.md címen érhető el.
+A Manifesztóhoz később is lehet csatlakozni. Az aktuális csatlakozási lehetőség és az aláírók nyilvántartása a Manifesztó GitHub-oldaláról érhető el.
 
 A nyilvános megjelenésben a szerzők feltüntetése, a közreműködői és forrásjegyzék, valamint az aláírói lista külön felületen is kezelhető. A GitHub változástörténete fontos része a dokumentum történetének, de nem helyettesíti a szerzői és aláírói státusz egyértelmű rögzítését.
 
@@ -242,8 +244,8 @@ A nyilvános megjelenésben a szerzők feltüntetése, a közreműködői és fo
 
 ## A dokumentum változása
 
-Ez a Manifesztó nem kinyilatkoztatás, hanem közös munkadokumentumból kialakuló szakmai vállalás.
+Ez a Manifesztó nem kinyilatkoztatás, hanem közös munkadokumentumból kialakuló nyilvános vállalás.
 
-A változásokat nyilvánosan követjük. Egy aláírás mindig a dokumentum egy meghatározott változatára vonatkozik. A későbbi módosítás nem válik automatikusan korábbi aláíró álláspontjává.
+Aki aláírja, nem azt állítja, hogy minden részlet megoldott. A Manifesztó egy meghatározott, közzétett változatát és az abban rögzített vállalást teszi magáévá.
 
-Aki aláírja, nem azt állítja, hogy minden részlet megoldott, és nem vállalja automatikusan az Alapok mindenkori tartalmát. Egy meghatározott Manifesztó-változatot és az abban rögzített vállalást teszi magáévá.
+A változásokat nyilvánosan követjük. Az aláírás mindig a Manifesztó egy meghatározott, közzétett változatára vonatkozik. Későbbi módosítás nem változtatja meg ennek az aláírásnak a jelentését; egy újabb változathoz újabb hozzájárulás szükséges.
