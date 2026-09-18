@@ -18,7 +18,7 @@ A technológia eszköz. A cél nem pusztán az állam működőképessége, hane
 
 A Manifesztó a működő alkotmányos rend követelményéből indul ki. A fennálló jogi és intézményi keret megtartása önmagában nem cél, ahogy megváltoztatása sem önmagában érték. Azt kérdezi, milyen garanciák szükségesek egy működő alkotmányos rendhez, és milyen jogi és intézményi rend képes ezeket hitelesen és tartósan biztosítani.
 
-Az alkotmányos működőképesség nem egyetlen szakma ügye. A megbízható digitális állam technikai, jogi, intézményi és társadalmi kérdés egyszerre. Ezért a tizenkét pont sem egyetlen szakma programja: szakmai háttértől és intézményi szereptől függetlenül lehet hozzájuk csatlakozni. A Manifesztó legfrissebb közzétett szövege, korábbi változatai és a csatlakozás módja a https://github.com/digitalis-bizalom/manifesto/ címen érhető el.
+Az alkotmányos működőképesség nem egyetlen szakma ügye. A megbízható digitális állam technikai, jogi, intézményi és társadalmi kérdés egyszerre. Ezért a tizenkét pont sem egyetlen szakma programja: szakmai háttértől és intézményi szereptől függetlenül lehet hozzájuk csatlakozni. A Manifesztó legfrissebb közzétett szövege, korábbi változatai és a csatlakozás módja a https://digitalis-bizalom.github.io címen érhető el.
 
 ---
 
@@ -222,7 +222,7 @@ Nem aktuálpolitikai diagnózist ad. Alapot akar adni ahhoz, hogy konkrét rends
 
 A Manifesztó szándékosan rövid. Önmagában ezért nem alkalmas annak eldöntésére, hogy egy konkrét állami rendszer megfelel-e neki.
 
-A tizenkét pont részletesebb, ellenőrizhető kibontására szolgál az Alapok: követelményeket, bizonyítékokat, mércéket és teszteket kapcsol hozzájuk. Az Alapok a https://github.com/digitalis-bizalom/alapok címen érhető el.
+A tizenkét pont részletesebb, ellenőrizhető kibontására szolgál az Alapok: követelményeket, bizonyítékokat, mércéket és teszteket kapcsol hozzájuk. Az Alapok a Manifesztó közzétett felületéről érhető el.
 
 A Manifesztó mondja meg, merre akarunk menni. Az Alapok feladata, hogy ne tudjuk utólag bármiről azt állítani, hogy odaértünk. Az Alapok külön, tovább fejlődő munkadokumentum; a Manifesztó aláírása önmagában nem jelenti mindenkori tartalmának elfogadását.
 
