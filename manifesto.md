@@ -2,7 +2,7 @@
 
 ## Manifesztó a megbízható digitális államról
 
-**Változat: v1.0-rc6 — aláírásra bocsátott v1.0-jelölt**
+**Változat: v1.0-rc7 — aláírásra bocsátott v1.0-jelölt**
 
 ---
 
@@ -12,9 +12,9 @@ A digitális állam nem informatikai projekt. Az állam egyre több alapvető fu
 
 Olyan magyar államot szeretnénk, amelynek digitális működése nemcsak gyors és kényelmes, hanem megbízható: jogszerűen működik, támadás és hiba mellett is képes fenntartani a szükséges funkciókat, saját állításait bizonyítani tudja, függőségeit ismeri, válság után helyreáll, és közben nem válik saját technológiájának vagy beszállítóinak foglyává.
 
-Nem olyan rendszert keresünk, amely csak jó vezetőkkel, jó üzemeltetőkkel és szerencsés körülmények között működik jól. Olyan szabályokat, működési módot és infrastruktúrát keresünk, amelyek hibák, túlterheltség, részérdekek és rossz döntések mellett is korlátozzák a hibák következményeit, láthatóvá teszik az eltéréseket, és visszaterelik a működést a jogszerű és ellenőrizhető keretek közé.
+Nem olyan állami működést tartunk megbízhatónak, amely csak jó vezetőkkel, jó üzemeltetőkkel és szerencsés körülmények között működik jól. Olyan szabályokra, működési módokra és infrastruktúrára van szükség, amelyek hibák, túlterheltség, részérdekek és rossz döntések mellett is korlátozzák a hibák következményeit, láthatóvá teszik az eltéréseket, és visszaterelik a működést a jogszerű és ellenőrizhető keretek közé.
 
-A technológia eszköz. A cél nem egyszerűen egy működő állam, hanem egy működő alkotmányos rend: olyan közös rend, amely megteremti és fenntartja a szabadság, a jogszerű együttműködés, a biztonság és a közös cselekvőképesség feltételeit. Az állam önfenntartása és működőképessége ennek szükséges része, de nem az egész cél.
+A technológia eszköz. A cél nem pusztán az állam működőképessége, hanem az alkotmányos rend működőképessége: olyan közös rend, amely megteremti és fenntartja a szabadság, a jogszerű együttműködés, a biztonság és a közös cselekvőképesség feltételeit. Az állam önfenntartása és működőképessége ennek szükséges része, de nem az egész cél.
 
 A Manifesztó a működő alkotmányos rend követelményéből indul ki. A fennálló jogi és intézményi keret megtartása önmagában nem cél, ahogy megváltoztatása sem önmagában érték. Azt kérdezi, milyen garanciák szükségesek egy működő alkotmányos rendhez, és milyen jogi és intézményi rend képes ezeket hitelesen és tartósan biztosítani.
 
@@ -40,7 +40,7 @@ Egy informatikai rendszer lehet folyamatosan elérhető úgy is, hogy a mögött
 
 Ezért előbb a funkciót kell meghatározni, és csak utána azt, hogyan és milyen technológiával biztosítjuk.
 
-Az állami funkciókat pedig nem a meglévő intézményi felosztásból kiindulva, hanem a tágabb alkotmányos kiindulópontból érdemes meghatározni.
+Az állami funkciókat pedig nem a meglévő intézményi felosztásból, hanem a működő alkotmányos rend követelményeiből érdemes meghatározni.
 
 Az állami szolgáltatások kialakításánál az ember vagy szervezet élethelyzete legyen az elsődleges kiindulópont, ne a meglévő intézményi struktúra: ne az állam szervezeti térképét kelljen ismernie ahhoz, hogy jogát gyakorolja, kötelezettségét teljesítse vagy ügyét elintézze.
 
@@ -58,7 +58,7 @@ Amit lehet, mérünk. Amit kritikusnak nevezünk, azt megfelelően próbára tes
 
 Az állam ne legyen saját működésének egyetlen igazolója. A fontos állításokhoz olyan bizonyíték kell, amely ellenőrizhető; kritikus állításnál független ellenőrzési útnak is rendelkezésre kell állnia. A független ellenőrzéshez a döntő bizonyítékoknak és mérési adatoknak is az ellenőrzött szereplőtől kellően függetlenül hozzáférhetőnek vagy védettnek kell lenniük.
 
-A digitális bizalom nem kommunikációs ígéret: a hiteles, kiszámítható és ellenőrizhető működés következménye.
+A digitális bizalom nem kommunikációs ígéret: a hiteles, kiszámítható és ellenőrizhető működés következménye. Alapja nem lehet pusztán az állam saját állítása vagy kívülről ellenőrizhetetlen információ; a társadalmi közbizalmat kell szolgálnia.
 
 ---
 
@@ -68,7 +68,7 @@ Jól működő, tanúsított és külön-külön biztonságos komponensekből is
 
 A nagy rendszerekben a súlyos hiba gyakran nem egyetlen alkatrész meghibásodásából következik, hanem több kisebb hiba, rossz feltételezés, hiányzó visszajelzés, függőség és emberi vagy szervezeti döntés találkozásából.
 
-Az nem elég bizonyíték az egészséges működésre, hogy eddig nem történt katasztrófa. A rendszer működhet úgy, hogy közben ismétlődő workaroundokra — a tervezett működési módot megkerülő megoldásokra —, kézi beavatkozásra vagy más rejtett kompenzációra szorul.
+Az nem elég bizonyíték az egészséges működésre, hogy eddig nem történt katasztrófa. A rendszer működhet úgy, hogy közben rendszeresen ismétlődő kerülő megoldásokra, kézi beavatkozásra vagy más rejtett kompenzációra szorul.
 
 Ezért a teljes működést vizsgáljuk: az interakciókat, a visszacsatolást, a függőségeket, a degradációt és a helyreállítást is.
 
@@ -84,7 +84,7 @@ Kritikus döntésnél a szakmai kockázatjelzésnek el kell jutnia a döntés sz
 
 Ha egy irányadó jogi, illetve előzetesen rögzített szakmai vagy etikai követelménytől való lényeges eltérés érdemi következményekkel járhat, legyen előre meghatározva az eltérés felismerésének, rögzítésének és megfelelő szintre eszkalálásának a módja. Az eltérésre vonatkozó jelzés legyen ellenőrizhető és vitatható; az ezt támogató technológia önmagában nem döntheti el a jogsértést vagy a felelősséget, és nem helyettesíti a döntésre jogosult ember felelősségét.
 
-A felelősség nem azonos a bűnbakkereséssel, és a vizsgálata nem kezdődhet a krízis pillanatánál. Azt is vizsgálni kell, kinek milyen előzetes kötelessége volt a megelőzésben, a felkészülésben, a megfigyelésben és a beavatkozásban, és ezek közül mit teljesített vagy mulasztott el.
+A felelősség nem azonos a bűnbakkereséssel, és vizsgálata nem szűkíthető a krízis pillanatára. Azt is vizsgálni kell, kinek milyen előzetes kötelessége volt a megelőzésben, a felkészülésben, a megfigyelésben és a beavatkozásban, és ezek közül mit teljesített vagy mulasztott el.
 
 Ettől külön kérdés, hogy milyen rendszerfeltételek tették lehetővé a hibát. A személyes vagy szervezeti felelősség megállapítása nem helyettesíti a rendszerhiba megértését, és a rendszerszintű magyarázat sem szünteti meg a tényleges mulasztásért viselt felelősséget.
 
@@ -108,7 +108,7 @@ Súlyos biztonsági esemény után az újraindítás külön döntés: a feltár
 
 ## 6. Kritikus függőség esetén tényleges kilépési vagy túlélési út kell
 
-A szuverenitás nem autarkia, és nem azonos azzal, hogy minden technológia magyar tulajdonban vagy magyar adatközpontban legyen. Egy magyar beszállító nem tesz önmagában szuverénné, ahogy egy külföldi beszállító sem szünteti meg automatikusan a szuverenitást.
+A szuverenitás nem teljes technológiai önellátás, és nem azonos azzal, hogy minden technológia magyar tulajdonban vagy magyar adatközpontban legyen. Egy magyar beszállító nem tesz önmagában szuverénné, ahogy egy külföldi beszállító sem szünteti meg automatikusan a szuverenitást.
 
 A lényegi kérdés az, hogy egy kritikus függőséget ismerünk-e, és a rá épülő működést képesek vagyunk-e fenntartani, más megoldásra átvinni, a függőséget kiváltani vagy szükség esetén megszüntetni.
 
@@ -134,7 +134,7 @@ A technológia változik. Ezért egy kritikus rendszernek nemcsak fenntarthatón
 
 ## 8. A digitális állam fizikai állam
 
-Nincs digitális folytonosság energia, hálózat, eszköz, helyszín, logisztika és megfelelően felkészült emberek nélkül.
+Nincs digitális folytonosság energia, hálózat, eszköz, helyszín, logisztika és megfelelően felkészült, a feladatra ténylegesen rendelkezésre álló és a szükséges hatáskörrel rendelkező emberek nélkül.
 
 Ahol szükséges, legyen működő tartalék: offline, helyi, manuális vagy más, a normál infrastruktúrától részben független megoldás.
 
@@ -168,7 +168,7 @@ Az együttműködőképes állam és a mindenről mindent tudó állam nem ugyan
 
 Nemcsak a bekövetkezett incidensből lehet tanulni.
 
-Jelzés a majdnem bekövetkezett hiba, a rendszeresen ismétlődő workaround, a kézi beavatkozás, a gyakorlaton előkerülő függőség és minden olyan helyzet is, amikor a rendszer csak azért nem hibázott látványosan, mert valaki időben közbelépett.
+Jelzés a majdnem bekövetkezett hiba, a rendszeresen ismétlődő kerülő megoldás, a kézi beavatkozás, a gyakorlaton előkerülő függőség és minden olyan helyzet is, amikor a rendszer csak azért nem hibázott látványosan, mert valaki időben közbelépett.
 
 A rendszernek a kívülről érkező jelzéseket is be kell tudnia fogadni. Legyen világos és hozzáférhető út a sérülékenységek és más érdemi kockázatok jóhiszemű bejelentésére, kivizsgálására, visszajelzésére és javítására; a megfelelő csatornán, jogszerűen és jóhiszeműen jelzőt ne érje retorzió azért, mert problémát jelzett.
 
@@ -182,7 +182,7 @@ A változtatást is kockázatként kezeljük. Egy ismert hiba megszüntetése ú
 
 A biztonság, a helyreállítás, a szakértelem és az alkalmazkodás nem egyszeri fejlesztési projekt.
 
-A kritikus állami rendszerek működtetéséhez folyamatos tudás, gyakorlat, finanszírozás, mérés és javítás kell. Amit az állam maga nem tud megfelelően elvégezni, azt megszerezheti mástól, de a kritikus képesség fölötti tényleges kontrollt nem szervezheti ki vele együtt.
+A kritikus állami rendszerek működtetéséhez folyamatos tudás, gyakorlat, finanszírozás, mérés és javítás kell. Ehhez olyan emberek is kellenek, akik képesek és készek ezeket a rendszereket felépíteni, működtetni és javítani, a szükséges tudást pedig továbbadni. Amit az állam maga nem tud megfelelően elvégezni, annak ellátásához külső tudást és szolgáltatást is igénybe vehet, de a kritikus képesség fölötti tényleges kontrollnak az államnál kell maradnia.
 
 ---
 
@@ -206,7 +206,7 @@ A lehetséges technológiai, szervezeti és működési megoldásokat külön ke
 
 Nem választ technológiai stacket, beszállítót vagy referenciaimplementációt.
 
-Nem mondja ki, hogy centralizált vagy elosztott architektúra általában jobb.
+Nem állítja, hogy a centralizált vagy az elosztott architektúra általában jobb lenne.
 
 Nem teszi az open source-t, a cloudot, a local-first működést, a mesterséges intelligenciát vagy bármely más konkrét technológiát vagy módszertant általános követelménnyé.
 
@@ -230,15 +230,17 @@ A Manifesztó mondja meg, merre akarunk menni. Az Alapok feladata, hogy ne tudju
 
 ## Szerzőség, közreműködés és aláírás
 
+A szerzőség, a közreműködés és az aláírás különböző viszonyt jelent a Manifesztóhoz.
+
 A Manifesztó szerzői azok, akik a lefagyasztott v1.0 teljes szövegéért szerzőként felelősséget vállalnak, és annak első aláírói.
 
-A közreműködők és a felhasznált források ettől külön kezelendők. Egy forrás szerzője vagy egy gondolat eredeti megfogalmazója nem válik automatikusan a Manifesztó szerzőjévé.
+A közreműködők és a felhasznált források ettől külön kezelendők. Egy forrás szerzője, egy gondolat eredeti megfogalmazója vagy a szöveg kialakításában közreműködő személy nem válik ettől automatikusan a Manifesztó szerzőjévé.
 
-A későbbi aláírók külön kategóriát alkotnak. Egy későbbi aláíró vállalhatja a Manifesztó egy meghatározott, már lefagyasztott változatát anélkül, hogy annak szerzője lenne.
+A v1.0 közzététele után mások is csatlakozhatnak a Manifesztóhoz. A későbbi aláíró egy meghatározott, lefagyasztott változatot vállal, de ettől nem válik annak szerzőjévé. Ez teszi lehetővé, hogy a szerzői felelősség és a későbbi társadalmi vagy szakmai támogatás egyértelműen elkülönüljön.
 
-A Manifesztóhoz később is lehet csatlakozni. Az aktuális csatlakozási lehetőség és az aláírók nyilvántartása a Manifesztó GitHub-oldaláról érhető el.
+A csatlakozás aktuális módja és az aláírók nyilvántartása a Manifesztó közzétett felületéről érhető el.
 
-A nyilvános megjelenésben a szerzők feltüntetése, a közreműködői és forrásjegyzék, valamint az aláírói lista külön felületen is kezelhető. A GitHub változástörténete fontos része a dokumentum történetének, de nem helyettesíti a szerzői és aláírói státusz egyértelmű rögzítését.
+A GitHub változástörténete fontos része a dokumentum történetének, de nem helyettesíti a szerzői, közreműködői és aláírói státusz egyértelmű rögzítését.
 
 ---
 
