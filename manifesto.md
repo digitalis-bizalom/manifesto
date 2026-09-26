@@ -2,7 +2,7 @@
 
 ## Manifesztó a megbízható digitális államról
 
-**Változat: v1.0-rc7 — aláírásra bocsátott v1.0-jelölt**
+**Változat: v1.0-rc8 — aláírásra bocsátott v1.0-jelölt**
 
 ---
 
@@ -57,6 +57,8 @@ Tanúsítvány, szabályzat, audit vagy jogszabályi megfelelés szükséges leh
 Amit lehet, mérünk. Amit kritikusnak nevezünk, azt megfelelően próbára tesszük. A helyreállítási tervet nem tekintjük helyreállítási képességnek addig, amíg nem próbáltuk ki.
 
 Az állam ne legyen saját működésének egyetlen igazolója. A fontos állításokhoz olyan bizonyíték kell, amely ellenőrizhető; kritikus állításnál független ellenőrzési útnak is rendelkezésre kell állnia. A független ellenőrzéshez a döntő bizonyítékoknak és mérési adatoknak is az ellenőrzött szereplőtől kellően függetlenül hozzáférhetőnek vagy védettnek kell lenniük.
+
+A működést védő, ellenőrző vagy tanúsító szereplők hatásköre is legyen körülhatárolt, működésük számonkérhető, megállapításaik pedig ellenőrizhetők és vitathatók. Az ellenőrzési vagy tanúsítási szerep önmagában nem keletkeztet közhatalmi felhatalmazást.
 
 A digitális bizalom nem kommunikációs ígéret: a hiteles, kiszámítható és ellenőrizhető működés következménye. Alapja nem lehet pusztán az állam saját állítása vagy kívülről ellenőrizhetetlen információ; a társadalmi közbizalmat kell szolgálnia.
 
@@ -146,6 +148,8 @@ A tartalék működés azonban csak akkor megfelelő, ha jogszerű, használata 
 
 Az informatikai azonosítás, hitelesítés és jogosultság még nem jelent közhatalmat. Digitális hiba vagy támadás esetén is rekonstruálható maradjon, hogy ki volt jogosult eljárni, és ténylegesen ki járt el, milyen hivatalban, milyen hatáskörrel, milyen felhatalmazás alapján és milyen időbeli korlátok között.
 
+A lejárt, visszavont vagy más okból megszűnt felhatalmazás alapján történő további eljárást és jogosultság-használatot ténylegesen meg kell akadályozni. A rendszer helyreállítása során sem válhatnak újra használhatóvá olyan jogosultságok, amelyek jogalapja már megszűnt.
+
 Ugyanez vonatkozik a hivatalos állami közlésre. Válságban és normál helyzetben is felismerhetőnek kell maradnia, mi a hiteles állami közlés és ki jogosult azt kibocsátani.
 
 Az intelligencia önmagában nem keletkeztet hatáskört. A mesterséges intelligencia döntést előkészíthet és jogszerűen meghatározott műveletet végrehajthat, de közhatalmi hatáskör nem ruházható rá. A közhatalmi működés mögött végső soron rekonstruálható, jogszerűen meghatározott emberi felhatalmazási és felelősségi láncnak kell állnia.
@@ -182,7 +186,7 @@ A változtatást is kockázatként kezeljük. Egy ismert hiba megszüntetése ú
 
 A biztonság, a helyreállítás, a szakértelem és az alkalmazkodás nem egyszeri fejlesztési projekt.
 
-A kritikus állami rendszerek működtetéséhez folyamatos tudás, gyakorlat, finanszírozás, mérés és javítás kell. Ehhez olyan emberek is kellenek, akik képesek és készek ezeket a rendszereket felépíteni, működtetni és javítani, a szükséges tudást pedig továbbadni. Amit az állam maga nem tud megfelelően elvégezni, annak ellátásához külső tudást és szolgáltatást is igénybe vehet, de a kritikus képesség fölötti tényleges kontrollnak az államnál kell maradnia.
+A kritikus állami rendszerek működtetéséhez folyamatos tudás, gyakorlat, finanszírozás, mérés és javítás kell. Ehhez olyan emberek is kellenek, akik képesek és készek ezeket a rendszereket felépíteni, működtetni és javítani, a szükséges tudást pedig továbbadni. Amit az állam maga nem tud megfelelően elvégezni, annak ellátásához külső tudást és szolgáltatást is igénybe vehet, de a kritikus képesség fölötti tényleges kontrollt az alkotmányos hatásköri és felelősségi rend szerint kell biztosítania. Ez a kontroll nem jelentheti az ellenőrzési és hatalmi korlátok feloldását vagy megkerülését.
 
 ---
 
