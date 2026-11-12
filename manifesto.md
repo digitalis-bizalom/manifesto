@@ -2,9 +2,9 @@
 
 ## Manifesztó a megbízható digitális államról
 
-**Szerzők:** Frész Ferenc, Mázsa Péter, Nagymajtényi Gábor
+Szerzők: Frész Ferenc, Mázsa Péter, Nagymajtényi Gábor
 
-**Változat: v1.0-rc9 — aláírt v1.0-jelölt**
+Változat: v1.0
 
 ---
 
